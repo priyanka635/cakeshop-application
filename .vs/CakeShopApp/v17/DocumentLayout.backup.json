@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\netcore\\CakeShopApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{188B2B31-26A7-42DD-9DF8-5D3FC73AEFC0}|cakeshopapp.client\\cakeshopapp.client.esproj|d:\\netcore\\cakeshopapp\\cakeshopapp.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{188B2B31-26A7-42DD-9DF8-5D3FC73AEFC0}|cakeshopapp.client\\cakeshopapp.client.esproj|solutionrelative:cakeshopapp.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EBBDDC-3468-439C-9276-A6C8B4043638}|CakeShopApp.Server\\CakeShopApp.Server.csproj|d:\\netcore\\cakeshopapp\\cakeshopapp.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38EBBDDC-3468-439C-9276-A6C8B4043638}|CakeShopApp.Server\\CakeShopApp.Server.csproj|solutionrelative:cakeshopapp.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EBBDDC-3468-439C-9276-A6C8B4043638}|CakeShopApp.Server\\CakeShopApp.Server.csproj|d:\\netcore\\cakeshopapp\\cakeshopapp.server\\migrations\\20240918173955_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EBBDDC-3468-439C-9276-A6C8B4043638}|CakeShopApp.Server\\CakeShopApp.Server.csproj|solutionrelative:cakeshopapp.server\\migrations\\20240918173955_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EBBDDC-3468-439C-9276-A6C8B4043638}|CakeShopApp.Server\\CakeShopApp.Server.csproj|d:\\netcore\\cakeshopapp\\cakeshopapp.server\\migrations\\logincontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EBBDDC-3468-439C-9276-A6C8B4043638}|CakeShopApp.Server\\CakeShopApp.Server.csproj|solutionrelative:cakeshopapp.server\\migrations\\logincontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EBBDDC-3468-439C-9276-A6C8B4043638}|CakeShopApp.Server\\CakeShopApp.Server.csproj|d:\\netcore\\cakeshopapp\\cakeshopapp.server\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EBBDDC-3468-439C-9276-A6C8B4043638}|CakeShopApp.Server\\CakeShopApp.Server.csproj|solutionrelative:cakeshopapp.server\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EBBDDC-3468-439C-9276-A6C8B4043638}|CakeShopApp.Server\\CakeShopApp.Server.csproj|d:\\netcore\\cakeshopapp\\cakeshopapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EBBDDC-3468-439C-9276-A6C8B4043638}|CakeShopApp.Server\\CakeShopApp.Server.csproj|solutionrelative:cakeshopapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EBBDDC-3468-439C-9276-A6C8B4043638}|CakeShopApp.Server\\CakeShopApp.Server.csproj|d:\\netcore\\cakeshopapp\\cakeshopapp.server\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EBBDDC-3468-439C-9276-A6C8B4043638}|CakeShopApp.Server\\CakeShopApp.Server.csproj|solutionrelative:cakeshopapp.server\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188B2B31-26A7-42DD-9DF8-5D3FC73AEFC0}|cakeshopapp.client\\cakeshopapp.client.esproj|d:\\netcore\\cakeshopapp\\cakeshopapp.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{188B2B31-26A7-42DD-9DF8-5D3FC73AEFC0}|cakeshopapp.client\\cakeshopapp.client.esproj|solutionrelative:cakeshopapp.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188B2B31-26A7-42DD-9DF8-5D3FC73AEFC0}|cakeshopapp.client\\cakeshopapp.client.esproj|d:\\netcore\\cakeshopapp\\cakeshopapp.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{188B2B31-26A7-42DD-9DF8-5D3FC73AEFC0}|cakeshopapp.client\\cakeshopapp.client.esproj|solutionrelative:cakeshopapp.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EBBDDC-3468-439C-9276-A6C8B4043638}|CakeShopApp.Server\\CakeShopApp.Server.csproj|d:\\netcore\\cakeshopapp\\cakeshopapp.server\\cakeshopapp.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{38EBBDDC-3468-439C-9276-A6C8B4043638}|CakeShopApp.Server\\CakeShopApp.Server.csproj|solutionrelative:cakeshopapp.server\\cakeshopapp.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188B2B31-26A7-42DD-9DF8-5D3FC73AEFC0}|cakeshopapp.client\\cakeshopapp.client.esproj|d:\\netcore\\cakeshopapp\\cakeshopapp.client\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{188B2B31-26A7-42DD-9DF8-5D3FC73AEFC0}|cakeshopapp.client\\cakeshopapp.client.esproj|solutionrelative:cakeshopapp.client\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188B2B31-26A7-42DD-9DF8-5D3FC73AEFC0}|cakeshopapp.client\\cakeshopapp.client.esproj|d:\\netcore\\cakeshopapp\\cakeshopapp.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{188B2B31-26A7-42DD-9DF8-5D3FC73AEFC0}|cakeshopapp.client\\cakeshopapp.client.esproj|solutionrelative:cakeshopapp.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188B2B31-26A7-42DD-9DF8-5D3FC73AEFC0}|cakeshopapp.client\\cakeshopapp.client.esproj|d:\\netcore\\cakeshopapp\\cakeshopapp.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{188B2B31-26A7-42DD-9DF8-5D3FC73AEFC0}|cakeshopapp.client\\cakeshopapp.client.esproj|solutionrelative:cakeshopapp.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EBBDDC-3468-439C-9276-A6C8B4043638}|CakeShopApp.Server\\CakeShopApp.Server.csproj|d:\\netcore\\cakeshopapp\\cakeshopapp.server\\contexts\\logincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EBBDDC-3468-439C-9276-A6C8B4043638}|CakeShopApp.Server\\CakeShopApp.Server.csproj|solutionrelative:cakeshopapp.server\\contexts\\logincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188B2B31-26A7-42DD-9DF8-5D3FC73AEFC0}|cakeshopapp.client\\cakeshopapp.client.esproj|d:\\netcore\\cakeshopapp\\cakeshopapp.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{188B2B31-26A7-42DD-9DF8-5D3FC73AEFC0}|cakeshopapp.client\\cakeshopapp.client.esproj|solutionrelative:cakeshopapp.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\netcore\\CakeShopApp\\CakeShopApp.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CakeShopApp.Server\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\netcore\\CakeShopApp\\CakeShopApp.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CakeShopApp.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T04:49:34.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\netcore\\CakeShopApp\\CakeShopApp.Server\\Migrations\\LoginContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CakeShopApp.Server\\Migrations\\LoginContextModelSnapshot.cs",
+              "ToolTip": "D:\\netcore\\CakeShopApp\\CakeShopApp.Server\\Migrations\\LoginContextModelSnapshot.cs",
+              "RelativeToolTip": "CakeShopApp.Server\\Migrations\\LoginContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:51:45.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "proxy.conf.js",
+              "DocumentMoniker": "D:\\netcore\\CakeShopApp\\cakeshopapp.client\\src\\proxy.conf.js",
+              "RelativeDocumentMoniker": "cakeshopapp.client\\src\\proxy.conf.js",
+              "ToolTip": "D:\\netcore\\CakeShopApp\\cakeshopapp.client\\src\\proxy.conf.js",
+              "RelativeToolTip": "cakeshopapp.client\\src\\proxy.conf.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-08T17:28:19.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "aspnetcore-https.js",
+              "DocumentMoniker": "D:\\netcore\\CakeShopApp\\cakeshopapp.client\\aspnetcore-https.js",
+              "RelativeDocumentMoniker": "cakeshopapp.client\\aspnetcore-https.js",
+              "ToolTip": "D:\\netcore\\CakeShopApp\\cakeshopapp.client\\aspnetcore-https.js",
+              "RelativeToolTip": "cakeshopapp.client\\aspnetcore-https.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-08T17:26:47.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "nuget.config",
+              "DocumentMoniker": "D:\\netcore\\CakeShopApp\\cakeshopapp.client\\nuget.config",
+              "RelativeDocumentMoniker": "cakeshopapp.client\\nuget.config",
+              "ToolTip": "D:\\netcore\\CakeShopApp\\cakeshopapp.client\\nuget.config",
+              "RelativeToolTip": "cakeshopapp.client\\nuget.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-08T17:26:41.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "angular.json",
+              "DocumentMoniker": "D:\\netcore\\CakeShopApp\\cakeshopapp.client\\angular.json",
+              "RelativeDocumentMoniker": "cakeshopapp.client\\angular.json",
+              "ToolTip": "D:\\netcore\\CakeShopApp\\cakeshopapp.client\\angular.json",
+              "RelativeToolTip": "cakeshopapp.client\\angular.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T17:26:15.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CakeShopApp.Server.http",
+              "DocumentMoniker": "D:\\netcore\\CakeShopApp\\CakeShopApp.Server\\CakeShopApp.Server.http",
+              "RelativeDocumentMoniker": "CakeShopApp.Server\\CakeShopApp.Server.http",
+              "ToolTip": "D:\\netcore\\CakeShopApp\\CakeShopApp.Server\\CakeShopApp.Server.http",
+              "RelativeToolTip": "CakeShopApp.Server\\CakeShopApp.Server.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-04T13:05:47.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\netcore\\CakeShopApp\\CakeShopApp.Server\\Program.cs",
+              "RelativeDocumentMoniker": "CakeShopApp.Server\\Program.cs",
+              "ToolTip": "D:\\netcore\\CakeShopApp\\CakeShopApp.Server\\Program.cs",
+              "RelativeToolTip": "CakeShopApp.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:00:48.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\netcore\\CakeShopApp\\CakeShopApp.Server\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "CakeShopApp.Server\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\netcore\\CakeShopApp\\CakeShopApp.Server\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "CakeShopApp.Server\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAxwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:44:26.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240918173955_InitialCreate.cs",
+              "DocumentMoniker": "D:\\netcore\\CakeShopApp\\CakeShopApp.Server\\Migrations\\20240918173955_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CakeShopApp.Server\\Migrations\\20240918173955_InitialCreate.cs",
+              "ToolTip": "D:\\netcore\\CakeShopApp\\CakeShopApp.Server\\Migrations\\20240918173955_InitialCreate.cs",
+              "RelativeToolTip": "CakeShopApp.Server\\Migrations\\20240918173955_InitialCreate.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:39:56.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginContext.cs",
+              "DocumentMoniker": "D:\\netcore\\CakeShopApp\\CakeShopApp.Server\\Contexts\\LoginContext.cs",
+              "RelativeDocumentMoniker": "CakeShopApp.Server\\Contexts\\LoginContext.cs",
+              "ToolTip": "D:\\netcore\\CakeShopApp\\CakeShopApp.Server\\Contexts\\LoginContext.cs",
+              "RelativeToolTip": "CakeShopApp.Server\\Contexts\\LoginContext.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwBMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:54:43.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "D:\\netcore\\CakeShopApp\\cakeshopapp.client\\src\\app\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "cakeshopapp.client\\src\\app\\login\\login.component.ts",
+              "ToolTip": "D:\\netcore\\CakeShopApp\\cakeshopapp.client\\src\\app\\login\\login.component.ts",
+              "RelativeToolTip": "cakeshopapp.client\\src\\app\\login\\login.component.ts",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-16T10:59:34.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\netcore\\CakeShopApp\\CakeShopApp.Server\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "CakeShopApp.Server\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\netcore\\CakeShopApp\\CakeShopApp.Server\\Models\\LoginModel.cs",
+              "RelativeToolTip": "CakeShopApp.Server\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:05:11.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "D:\\netcore\\CakeShopApp\\cakeshopapp.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "cakeshopapp.client\\src\\app\\app.component.ts",
+              "ToolTip": "D:\\netcore\\CakeShopApp\\cakeshopapp.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "cakeshopapp.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAABYAAAAAAAAAAAAzwB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-16T13:39:07.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "login.component.html",
+              "DocumentMoniker": "D:\\netcore\\CakeShopApp\\cakeshopapp.client\\src\\app\\login\\login.component.html",
+              "RelativeDocumentMoniker": "cakeshopapp.client\\src\\app\\login\\login.component.html",
+              "ToolTip": "D:\\netcore\\CakeShopApp\\cakeshopapp.client\\src\\app\\login\\login.component.html",
+              "RelativeToolTip": "cakeshopapp.client\\src\\app\\login\\login.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-16T11:45:50.611Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

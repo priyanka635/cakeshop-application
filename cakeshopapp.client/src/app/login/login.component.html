@@ -1,0 +1,18 @@
+<!-- <h1>Login Page</h1> -->
+
+<div class="login-container">
+    <div class="login-left">
+      <h5>Login! 👋</h5>
+      
+      <form>
+        <label for="UserName">UserName</label>
+        <input type="text" class="form-control" id="UserName" name="UserName"  [(ngModel)] ="username">
+        <label for="password">Password</label>
+        <input type="password" class="form-control" [(ngModel)] ="pass" id="password" name="password" placeholder="Type your password">
+        <button type="button" class="btn btn-signin" (click)="redirect()" >Login</button>
+      </form>
+      <p>Login Status: {{result}}</p>
+      <router-outlet></router-outlet>
+    </div>
+  </div>
+
